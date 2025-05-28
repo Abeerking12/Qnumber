@@ -13,7 +13,7 @@ cd && rm -rf Qnumber
 pkg update && upgrade
 pkg install python
 pkg install git
-git clone https://github.com/TechQaiser/Qnumber
+git clone https://github.com/AbheeBhaiMod/Qnumber
 cd Qnumber && python number.py
 
 ```
